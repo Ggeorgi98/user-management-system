@@ -1,0 +1,12 @@
+D:\Georgi\Фреймуърк системи за уеб програмиране\user-management-system\user-management-system\UserManagementSystem\UserManagementSystem.Business\bin\Debug\netcoreapp3.1\UserManagementSystem.Business.deps.json
+D:\Georgi\Фреймуърк системи за уеб програмиране\user-management-system\user-management-system\UserManagementSystem\UserManagementSystem.Business\bin\Debug\netcoreapp3.1\UserManagementSystem.Business.dll
+D:\Georgi\Фреймуърк системи за уеб програмиране\user-management-system\user-management-system\UserManagementSystem\UserManagementSystem.Business\obj\Debug\netcoreapp3.1\UserManagementSystem.Business.csprojAssemblyReference.cache
+D:\Georgi\Фреймуърк системи за уеб програмиране\user-management-system\user-management-system\UserManagementSystem\UserManagementSystem.Business\obj\Debug\netcoreapp3.1\UserManagementSystem.Business.AssemblyInfoInputs.cache
+D:\Georgi\Фреймуърк системи за уеб програмиране\user-management-system\user-management-system\UserManagementSystem\UserManagementSystem.Business\obj\Debug\netcoreapp3.1\UserManagementSystem.Business.AssemblyInfo.cs
+D:\Georgi\Фреймуърк системи за уеб програмиране\user-management-system\user-management-system\UserManagementSystem\UserManagementSystem.Business\obj\Debug\netcoreapp3.1\UserManagementSystem.Business.csproj.CoreCompileInputs.cache
+D:\Georgi\Фреймуърк системи за уеб програмиране\user-management-system\user-management-system\UserManagementSystem\UserManagementSystem.Business\bin\Debug\netcoreapp3.1\UserManagementSystem.Business.pdb
+D:\Georgi\Фреймуърк системи за уеб програмиране\user-management-system\user-management-system\UserManagementSystem\UserManagementSystem.Business\bin\Debug\netcoreapp3.1\UserManagementSystem.DAL.dll
+D:\Georgi\Фреймуърк системи за уеб програмиране\user-management-system\user-management-system\UserManagementSystem\UserManagementSystem.Business\bin\Debug\netcoreapp3.1\UserManagementSystem.DAL.pdb
+D:\Georgi\Фреймуърк системи за уеб програмиране\user-management-system\user-management-system\UserManagementSystem\UserManagementSystem.Business\obj\Debug\netcoreapp3.1\UserManagementSystem.Business.csproj.CopyComplete
+D:\Georgi\Фреймуърк системи за уеб програмиране\user-management-system\user-management-system\UserManagementSystem\UserManagementSystem.Business\obj\Debug\netcoreapp3.1\UserManagementSystem.Business.dll
+D:\Georgi\Фреймуърк системи за уеб програмиране\user-management-system\user-management-system\UserManagementSystem\UserManagementSystem.Business\obj\Debug\netcoreapp3.1\UserManagementSystem.Business.pdb
