@@ -9301,11 +9301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\user-management-system\\user-management-system\\UserManagementSystem\\UserManagementSystem.Business\\UserManagementSystem.Business.csproj",
+      "projectUniqueName": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\final\\user-management-system\\UserManagementSystem\\UserManagementSystem.Business\\UserManagementSystem.Business.csproj",
       "projectName": "UserManagementSystem.Business",
-      "projectPath": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\user-management-system\\user-management-system\\UserManagementSystem\\UserManagementSystem.Business\\UserManagementSystem.Business.csproj",
+      "projectPath": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\final\\user-management-system\\UserManagementSystem\\UserManagementSystem.Business\\UserManagementSystem.Business.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\user-management-system\\user-management-system\\UserManagementSystem\\UserManagementSystem.Business\\obj\\",
+      "outputPath": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\final\\user-management-system\\UserManagementSystem\\UserManagementSystem.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9324,8 +9324,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\user-management-system\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj": {
-              "projectPath": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\user-management-system\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj"
+            "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\final\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj": {
+              "projectPath": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\final\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj"
             }
           }
         }

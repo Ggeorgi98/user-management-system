@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\user-management-system\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj": {}
+    "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\final\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj": {}
   },
   "projects": {
-    "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\user-management-system\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj": {
+    "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\final\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\user-management-system\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj",
+        "projectUniqueName": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\final\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj",
         "projectName": "UserManagementSystem.DAL",
-        "projectPath": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\user-management-system\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj",
+        "projectPath": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\final\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj",
         "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\user-management-system\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\obj\\",
+        "outputPath": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\final\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

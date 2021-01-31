@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y2EmQ3+UprsNtPlSnqW7xWfPPZ5zDqaR7VSNxZByrbzlCCOyOwbEIvI6kCdisYdGq3azpxEnfc3xoIhZgo3+Mw==",
+  "dgSpecHash": "+aU/rCBgrOJRY6GZ64vioREWvaBwTEr4JL+EHaYSclCmXGbEtdqMg9pgikeEF8hU3WsUGsxzhBUQ4ybQvR9nfQ==",
   "success": true,
-  "projectFilePath": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\user-management-system\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj",
+  "projectFilePath": "D:\\Georgi\\Фреймуърк системи за уеб програмиране\\final\\user-management-system\\UserManagementSystem\\UserManagementSystem.DAL\\UserManagementSystem.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
