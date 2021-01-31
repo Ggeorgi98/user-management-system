@@ -65,7 +65,7 @@ namespace UserManagementSystem.WebAPI
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Broken Access Control", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "User Management System", Version = "v1" });
 
                 c.AddSecurityDefinition("jwt_auth", new OpenApiSecurityScheme()
                 {
